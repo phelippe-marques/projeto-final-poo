@@ -1,7 +1,11 @@
 Telas\TelaAlunos$1.class
+DAO\CursosDAO$ConexaoSQLite.class
 Telas\TelaCursos.class
 Telas\TelaCursos$4.class
 Telas\TelaPrincipal$1.class
+DAO\AlunosDAO$ConexaoSQLite.class
+Classes\Alunos.class
+DAO\AlunosDAO$Alunos.class
 Telas\TelaAlunos.class
 Telas\TelaCursos$1.class
 Telas\TelaPrincipal$2.class
@@ -10,7 +14,10 @@ Telas\TelaAlunos$4.class
 Telas\TelaCursos$2.class
 Telas\TelaPrincipal.class
 Telas\TelaPrincipal$3.class
+Conexao\ConexaoBD$Conexao.class
 Telas\TelaAlunos$3.class
-Conexao\Connetion.class
+DAO\AlunosDAO.class
+Classes\Cursos.class
+DAO\CursosDAO.class
 Conexao\ConexaoBD.class
 Telas\TelaCursos$3.class
