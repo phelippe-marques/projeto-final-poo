@@ -42,11 +42,17 @@ SQLite como banco de dados local para armazenamento das informações de alunos 
 JDBC para a integração com o banco de dados.
 
 Estrutura do Projeto
+
 TelaPrincipal.java: Responsável pela interface inicial do sistema, onde o usuário pode escolher entre acessar a tela de alunos ou a tela de cursos.
+
 TelaAlunos.java: Contém a lógica e os componentes gráficos para a gestão de alunos.
+
 TelaCursos.java: Contém a lógica e os componentes gráficos para a gestão de cursos.
+
 AlunoDAO.java: Classe responsável pela interação com o banco de dados para os registros de alunos.
+
 CursoDAO.java: Classe responsável pela interação com o banco de dados para os registros de cursos.
+
 Contribuições
 Sinta-se à vontade para fazer um fork do projeto, abrir issues ou enviar pull requests para contribuir com melhorias!
 
