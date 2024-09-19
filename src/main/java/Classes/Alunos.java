@@ -22,6 +22,16 @@ public class Alunos {
         this.cursos = cursos;
     }
 
+    /* sobrecarga
+    public Alunos() {
+        System.otut.println("Sem alunos matriculados");
+    }
+    public Alunos(String nome, double matricula) {
+        this.nome = nome;
+        this.matricula = matricula;
+    }
+    */
+    
     // Getters e Setters
     public String getNome() {
         return nome;
